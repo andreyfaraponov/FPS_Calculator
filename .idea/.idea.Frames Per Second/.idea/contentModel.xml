@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Study\Frames Per Second" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="MaterialsAndShaders" t="Include">
+          <e p="NucleonShader.shader" t="Include" />
+          <e p="ProteonShader.shader" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="FPSCounter.cs" t="Include" />
+          <e p="FPSDisplay.cs" t="Include" />
+          <e p="Nucleon.cs" t="Include" />
+          <e p="NucleonSpawner.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Frames Per Second.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\omega\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\omega\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Frames Per Second.-403255960.00" t="ExcludeRecursive" />
+  </component>
+</project>
