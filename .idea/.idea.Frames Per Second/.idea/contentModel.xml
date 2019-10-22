@@ -1,16 +1,26 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
     <e p="C:\Study\Frames Per Second" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
       <e p="Assets" t="Include">
+        <e p="Editor" t="Include">
+          <e p="FPS_Calculator" t="Include">
+            <e p="InitOnSceneFps.cs" t="Include" />
+          </e>
+        </e>
+        <e p="FPS_Calculator" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="FPSCounter.cs" t="Include" />
+            <e p="FPSDisplay.cs" t="Include" />
+          </e>
+        </e>
         <e p="MaterialsAndShaders" t="Include">
           <e p="NucleonShader.shader" t="Include" />
           <e p="ProteonShader.shader" t="Include" />
         </e>
         <e p="Scripts" t="Include">
-          <e p="FPSCounter.cs" t="Include" />
-          <e p="FPSDisplay.cs" t="Include" />
           <e p="Nucleon.cs" t="Include" />
           <e p="NucleonSpawner.cs" t="Include" />
         </e>
